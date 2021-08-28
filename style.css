@@ -1,0 +1,45 @@
+.heading {
+    font-size: 23px;
+    width: 100%;
+    margin: 0px;
+}
+
+#status, #number_of_object {
+    font-size: 18px;
+}
+
+body {
+    background-size: cover;
+    background-position: center;
+}
+
+
+
+
+canvas {
+    box-shadow: 10px 10px 10px gray;
+}
+body {
+    font-family: SF UI Display;
+    font-weight: 500;
+}
+div {
+    font-family: SF UI Display;
+    font-weight: 500;
+}
+input {
+    font-family: SF UI Display;
+    font-weight: 500;
+}
+div {
+    font-family: SF UI Display;
+    font-weight: 500;
+}
+span {
+    font-family: SF UI Display;
+    font-weight: 500;
+}
+h1, h2, h3, h4, h5, h6 {
+    font-family: SF UI Display;
+    font-weight: 500;
+}
